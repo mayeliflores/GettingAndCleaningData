@@ -1,9 +1,9 @@
-##Code Book
+#Code Book
 
-#Data source
+##Data source
 A full description is available at the site where the data was obtained: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-#Variables used:
+##Variables used:
 mean of tBodyAcc-mean()-X
 mean of tBodyAcc-mean()-Y
 mean of tBodyAcc-mean()-Z
